@@ -1,7 +1,10 @@
-h1 {
-    background-color: aliceblue;
+/*google font import*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
 }
 
-p {
-    background-color: aqua;
+h1 {
+    font-family: "Macondo", cursive;
 }
